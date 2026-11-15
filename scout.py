@@ -49,5 +49,36 @@ try:
 except Exception as e:
     lines.append(f"### drivendata — FETCH FAILED: {e}")
 
+
+# 4) Zindi (Africa/global data-science competitions, free entry)
+try:
+    body = fetch("https://zindi.africa/competitions")
+    hits = []
+    for m in re.finditer(r'href="(/competitions/[^"]+)"[^>]*>\s*([^<]{5,90}?)\s*<', body):
+        h, t = m.group(1), re.sub(r"\s+", " ", m.group(2)).strip()
+        if t and not SCAM.search(t):
+            hits.append(f"- [zindi] {t} | https://zindi.africa{h}")
+    if not hits:
+        blocks = re.findall(r"(.{0,200}?USD[^<]{0,40}|.{0,200}?\$[0-9,]{3,}.{0,120})", body)[:10]
+        hits = [f"- [zindi] (prize-block) {re.sub(chr(60)+'[^>]+'+chr(62),' ',b)[:140]}" for b in blocks]
+    lines.append(f"### zindi — {len(hits)} listed\n" + ("\n".join(dict.fromkeys(hits)) if hits else "- none parsed"))
+except Exception as e:
+    lines.append(f"### zindi — FETCH FAILED: {e}")
+
+# 5) GitHub bounty-labeled issues (unauthenticated search API, 60 req/hr — 1/day fine)
+try:
+    req = urllib.request.Request("https://api.github.com/search/issues?q=label:bounty+state:open+no:assignee&sort=created&order=desc&per_page=15", headers={**UA, "Accept": "application/vnd.github+json"})
+    data = json.loads(urllib.request.urlopen(req, timeout=40).read().decode())
+    hits = []
+    for it in data.get("items", []):
+        blob = (it.get("title", "") + " " + (it.get("body") or ""))[:600]
+        if SCAM.search(blob):
+            continue
+        amt = money_max(blob)
+        hits.append(f"- [bounty:{it['repository_url'].split('/repos/')[-1]}] {it['title'][:80]} | {'$'+format(amt,',') if amt else 'see issue'} | {it['html_url']}")
+    lines.append(f"### github-bounties — {len(hits)} open\n" + ("\n".join(hits) if hits else "- none"))
+except Exception as e:
+    lines.append(f"### github-bounties — FETCH FAILED: {e}")
+
 OUT.open("a").write("\n".join(lines) + "\n")
 print("\n".join(lines)[:1800])
