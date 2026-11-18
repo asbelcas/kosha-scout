@@ -214,3 +214,47 @@
 - [bounty:OphirPay/OphirPay] docs(setup): add step-by-step instructions for running a local Stellar Standalon | see issue | https://github.com/OphirPay/OphirPay/issues/1997
 - [bounty:OphirPay/OphirPay] ci(typescript): add GitHub Actions step to verify TypeScript types without emitt | see issue | https://github.com/OphirPay/OphirPay/issues/1979
 - [bounty:OphirPay/OphirPay] test(contracts): add Rust unit test verifying spending limit enforcement across  | see issue | https://github.com/OphirPay/OphirPay/issues/1964
+
+## 2026-11-18
+
+### devpost — FETCH FAILED: HTTP Error 403: Forbidden
+### kaggle — SKIPPED (no creds; operator gate: add KAGGLE_USERNAME/KEY as repo secrets)
+### drivendata — 20 listed
+- [drivendata] The Geologic Enhanced Mapping System (GEMS) Prize Challenge | https://www.drivendata.org/competitions/306/competition-doe-gems/
+- [drivendata] What&#x27;s Up, Docs? Document Summarization with LLMs | https://www.drivendata.org/competitions/297/whats-up-docs/
+- [drivendata] Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines | https://www.drivendata.org/competitions/66/flu-shot-learning/
+- [drivendata] Conser-vision Practice Area: Image Classification | https://www.drivendata.org/competitions/87/competition-image-classification-wildlife-conservation/
+- [drivendata] Richter&#x27;s Predictor: Modeling Earthquake Damage | https://www.drivendata.org/competitions/57/nepal-earthquake/
+- [drivendata] DengAI: Predicting Disease Spread | https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/
+- [drivendata] Pump it Up: Data Mining the Water Table | https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
+- [drivendata] DaT Parkinson&#x27;s Challenge | https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/
+- [drivendata] Goodnight Moon, Hello Early Literacy Screening | https://www.drivendata.org/competitions/298/literacy-screening/
+- [drivendata] SNOMED CT Entity Linking Challenge | https://www.drivendata.org/competitions/258/competition-snomed-ct/
+- [drivendata] Kelp Wanted: Segmenting Kelp Forests | https://www.drivendata.org/competitions/255/kelp-forest-segmentation/
+- [drivendata] Pale Blue Dot: Visualization Challenge | https://www.drivendata.org/competitions/256/pale-blue-dot/
+- [drivendata] Unsupervised Wisdom: Explore Medical Narratives on Older Adult Falls | https://www.drivendata.org/competitions/217/cdc-fall-narratives/
+- [drivendata] Research Rovers: AI Research Assistants for NASA | https://www.drivendata.org/competitions/252/ai-research-assistants/
+- [drivendata] VisioMel Challenge: Predicting Melanoma Relapse | https://www.drivendata.org/competitions/148/visiomel-melanoma/
+- [drivendata] Tick Tick Bloom: Harmful Algal Bloom Detection Challenge | https://www.drivendata.org/competitions/143/tick-tick-bloom/
+- [drivendata] The BioMassters | https://www.drivendata.org/competitions/99/biomass-estimation/
+- [drivendata] Mars Spectrometry 2: Gas Chromatography | https://www.drivendata.org/competitions/97/nasa-mars-gcms/
+- [drivendata] Where&#x27;s Whale-do? | https://www.drivendata.org/competitions/96/beluga-whales/
+- [drivendata] Mars Spectrometry: Detect Evidence for Past Habitability | https://www.drivendata.org/competitions/93/nasa-mars-spectrometry/
+### zindi — 0 listed
+- none parsed
+### github-bounties — 15 open
+- [bounty:relayhop/sn-monetization-runtime] [radar] SN open bounty 2026-11-18T16:28 | see issue | https://github.com/relayhop/sn-monetization-runtime/issues/1418
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5255
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5254
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5253
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5252
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 3 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5251
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 3 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5250
+- [bounty:relayhop/sn-monetization-runtime] [radar] SN open bounty 2026-11-18T15:31 | see issue | https://github.com/relayhop/sn-monetization-runtime/issues/1416
+- [bounty:PhanKhoa95/oss-bot-trap-benchmark] [Wave 11] security(bridge): synchronize 128-bit fee rounding invariant across co | $1 | https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/116
+- [bounty:PhanKhoa95/oss-bot-trap-benchmark] [Wave 11] fix(xdr): reject boolean ledger sequence inputs and align 64-frame che | $1 | https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/115
+- [bounty:PhanKhoa95/oss-bot-trap-benchmark] [Wave 11] feat(ui): add Stellar slippage warning banner and >=800x600 DOM proof  | $1 | https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/114
+- [bounty:PhanKhoa95/oss-bot-trap-benchmark] [Wave 11] fix(rpc): enforce BigInt stroops fee floor and SEP-10 challenge window | $1 | https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/113
+- [bounty:PhanKhoa95/oss-bot-trap-benchmark] [Wave 11] feat(soroban): add ledger-skew replay window check in src/soroban_math | $1 | https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/112
+- [bounty:PhanKhoa95/oss-bot-trap-benchmark] [Wave 11] fix(soroban): clamp instance storage TTL extension against max_ttl in  | $1 | https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/111
+- [bounty:relayhop/sn-monetization-runtime] [radar] SN open bounty 2026-11-18T13:49 | see issue | https://github.com/relayhop/sn-monetization-runtime/issues/1414
