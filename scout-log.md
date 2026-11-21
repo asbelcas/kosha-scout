@@ -346,3 +346,47 @@
 - [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 3 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5451
 - [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 3 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5450
 - [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 4 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5449
+
+## 2026-11-21
+
+### devpost — FETCH FAILED: HTTP Error 403: Forbidden
+### kaggle — SKIPPED (no creds; operator gate: add KAGGLE_USERNAME/KEY as repo secrets)
+### drivendata — 20 listed
+- [drivendata] The Geologic Enhanced Mapping System (GEMS) Prize Challenge | https://www.drivendata.org/competitions/306/competition-doe-gems/
+- [drivendata] What&#x27;s Up, Docs? Document Summarization with LLMs | https://www.drivendata.org/competitions/297/whats-up-docs/
+- [drivendata] Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines | https://www.drivendata.org/competitions/66/flu-shot-learning/
+- [drivendata] Conser-vision Practice Area: Image Classification | https://www.drivendata.org/competitions/87/competition-image-classification-wildlife-conservation/
+- [drivendata] Richter&#x27;s Predictor: Modeling Earthquake Damage | https://www.drivendata.org/competitions/57/nepal-earthquake/
+- [drivendata] DengAI: Predicting Disease Spread | https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/
+- [drivendata] Pump it Up: Data Mining the Water Table | https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
+- [drivendata] DaT Parkinson&#x27;s Challenge | https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/
+- [drivendata] Goodnight Moon, Hello Early Literacy Screening | https://www.drivendata.org/competitions/298/literacy-screening/
+- [drivendata] SNOMED CT Entity Linking Challenge | https://www.drivendata.org/competitions/258/competition-snomed-ct/
+- [drivendata] Kelp Wanted: Segmenting Kelp Forests | https://www.drivendata.org/competitions/255/kelp-forest-segmentation/
+- [drivendata] Pale Blue Dot: Visualization Challenge | https://www.drivendata.org/competitions/256/pale-blue-dot/
+- [drivendata] Unsupervised Wisdom: Explore Medical Narratives on Older Adult Falls | https://www.drivendata.org/competitions/217/cdc-fall-narratives/
+- [drivendata] Research Rovers: AI Research Assistants for NASA | https://www.drivendata.org/competitions/252/ai-research-assistants/
+- [drivendata] VisioMel Challenge: Predicting Melanoma Relapse | https://www.drivendata.org/competitions/148/visiomel-melanoma/
+- [drivendata] Tick Tick Bloom: Harmful Algal Bloom Detection Challenge | https://www.drivendata.org/competitions/143/tick-tick-bloom/
+- [drivendata] The BioMassters | https://www.drivendata.org/competitions/99/biomass-estimation/
+- [drivendata] Mars Spectrometry 2: Gas Chromatography | https://www.drivendata.org/competitions/97/nasa-mars-gcms/
+- [drivendata] Where&#x27;s Whale-do? | https://www.drivendata.org/competitions/96/beluga-whales/
+- [drivendata] Mars Spectrometry: Detect Evidence for Past Habitability | https://www.drivendata.org/competitions/93/nasa-mars-spectrometry/
+### zindi — 0 listed
+- none parsed
+### github-bounties — 15 open
+- [bounty:zhangjiayang6835-cyber/bounty-plaza] [Bounty] [Wave 4: 24 × $1.00 USDC | Observed Catalogue] Batch 1 Open Now (12 Slo | $24 | https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4381
+- [bounty:zhangjiayang6835-cyber/bounty-plaza] [Bounty] [Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (567 Watched A | $20 | https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4380
+- [bounty:Fractal-Neurons/pacta] [Wave 4: 5 × $2.00 USDC | Documents Changed] Open Now (160 Protocols · 246 Quote | $10 | https://github.com/Fractal-Neurons/pacta/issues/161
+- [bounty:Fractal-Neurons/pacta] [Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (567 Watched Addresses  | $20 | https://github.com/Fractal-Neurons/pacta/issues/159
+- [bounty:Fractal-Neurons/pacta] [Wave 4: 24 × $1.00 USDC | Observed Catalogue] Batch 1 Open Now (12 Slots · Ethe | $24 | https://github.com/Fractal-Neurons/pacta/issues/158
+- [bounty:tradermarketcap/tradermarketcap-open] Add a Bithumb exchange reader (KRW converted to USD) | see issue | https://github.com/tradermarketcap/tradermarketcap-open/issues/56
+- [bounty:tradermarketcap/tradermarketcap-open] Add an Upbit exchange reader (USDT market) | see issue | https://github.com/tradermarketcap/tradermarketcap-open/issues/55
+- [bounty:tradermarketcap/tradermarketcap-open] Add a Gemini exchange reader | see issue | https://github.com/tradermarketcap/tradermarketcap-open/issues/54
+- [bounty:tradermarketcap/tradermarketcap-open] Add a Bitfinex exchange reader | see issue | https://github.com/tradermarketcap/tradermarketcap-open/issues/53
+- [bounty:tradermarketcap/tradermarketcap-open] Add a Crypto.com Exchange reader | see issue | https://github.com/tradermarketcap/tradermarketcap-open/issues/52
+- [bounty:tradermarketcap/tradermarketcap-open] Add an HTX (Huobi) exchange reader | see issue | https://github.com/tradermarketcap/tradermarketcap-open/issues/51
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5549
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5548
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5547
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5546
