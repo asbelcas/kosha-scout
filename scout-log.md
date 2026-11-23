@@ -434,3 +434,47 @@
 - [bounty:Fishers-Founders-United/Swapatron5000] Bounty (3): Write the cut list from the chosen design | see issue | https://github.com/Fishers-Founders-United/Swapatron5000/issues/102
 - [bounty:Fishers-Founders-United/Swapatron5000] Bounty (3): Draw a full shell design with measurements | see issue | https://github.com/Fishers-Founders-United/Swapatron5000/issues/101
 - [bounty:Fishers-Founders-United/Swapatron5000] Bounty (3): Build a simple "took and left" form | see issue | https://github.com/Fishers-Founders-United/Swapatron5000/issues/100
+
+## 2026-11-23
+
+### devpost — FETCH FAILED: HTTP Error 403: Forbidden
+### kaggle — SKIPPED (no creds; operator gate: add KAGGLE_USERNAME/KEY as repo secrets)
+### drivendata — 20 listed
+- [drivendata] The Geologic Enhanced Mapping System (GEMS) Prize Challenge | https://www.drivendata.org/competitions/306/competition-doe-gems/
+- [drivendata] What&#x27;s Up, Docs? Document Summarization with LLMs | https://www.drivendata.org/competitions/297/whats-up-docs/
+- [drivendata] Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines | https://www.drivendata.org/competitions/66/flu-shot-learning/
+- [drivendata] Conser-vision Practice Area: Image Classification | https://www.drivendata.org/competitions/87/competition-image-classification-wildlife-conservation/
+- [drivendata] Richter&#x27;s Predictor: Modeling Earthquake Damage | https://www.drivendata.org/competitions/57/nepal-earthquake/
+- [drivendata] DengAI: Predicting Disease Spread | https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/
+- [drivendata] Pump it Up: Data Mining the Water Table | https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
+- [drivendata] DaT Parkinson&#x27;s Challenge | https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/
+- [drivendata] Goodnight Moon, Hello Early Literacy Screening | https://www.drivendata.org/competitions/298/literacy-screening/
+- [drivendata] SNOMED CT Entity Linking Challenge | https://www.drivendata.org/competitions/258/competition-snomed-ct/
+- [drivendata] Kelp Wanted: Segmenting Kelp Forests | https://www.drivendata.org/competitions/255/kelp-forest-segmentation/
+- [drivendata] Pale Blue Dot: Visualization Challenge | https://www.drivendata.org/competitions/256/pale-blue-dot/
+- [drivendata] Unsupervised Wisdom: Explore Medical Narratives on Older Adult Falls | https://www.drivendata.org/competitions/217/cdc-fall-narratives/
+- [drivendata] Research Rovers: AI Research Assistants for NASA | https://www.drivendata.org/competitions/252/ai-research-assistants/
+- [drivendata] VisioMel Challenge: Predicting Melanoma Relapse | https://www.drivendata.org/competitions/148/visiomel-melanoma/
+- [drivendata] Tick Tick Bloom: Harmful Algal Bloom Detection Challenge | https://www.drivendata.org/competitions/143/tick-tick-bloom/
+- [drivendata] The BioMassters | https://www.drivendata.org/competitions/99/biomass-estimation/
+- [drivendata] Mars Spectrometry 2: Gas Chromatography | https://www.drivendata.org/competitions/97/nasa-mars-gcms/
+- [drivendata] Where&#x27;s Whale-do? | https://www.drivendata.org/competitions/96/beluga-whales/
+- [drivendata] Mars Spectrometry: Detect Evidence for Past Habitability | https://www.drivendata.org/competitions/93/nasa-mars-spectrometry/
+### zindi — 0 listed
+- none parsed
+### github-bounties — 15 open
+- [bounty:relayhop/sn-monetization-runtime] [radar] SN open bounty 2026-11-23T21:13 | see issue | https://github.com/relayhop/sn-monetization-runtime/issues/1440
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5645
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5644
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 3 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5643
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 3 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5642
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 4 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5641
+- [bounty:relayhop/sn-monetization-runtime] [radar] SN open bounty 2026-11-23T17:56 | see issue | https://github.com/relayhop/sn-monetization-runtime/issues/1439
+- [bounty:EliCunninghamDev/haiku-core] [BOUNTY] Add printHaiku() — a beautiful haiku to the console (Reward: $0.00 USDC | see issue | https://github.com/EliCunninghamDev/haiku-core/issues/1
+- [bounty:alwaystrueio/devx-bounties] [Bounty] Test issue (not a real bounty) | see issue | https://github.com/alwaystrueio/devx-bounties/issues/1
+- [bounty:relayhop/sn-monetization-runtime] [radar] SN open bounty 2026-11-23T08:55 | see issue | https://github.com/relayhop/sn-monetization-runtime/issues/1436
+- [bounty:IES-BoilerRoom/pcie-tlp-credit-flow-gate] ($350) perf/fix: Align Posted/Non-Posted header credit wrap mask under 256B FLIT | $350 | https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/2
+- [bounty:IES-BoilerRoom/pcie-tlp-credit-flow-gate] [225 USDC] Resolve TLP frame ceiling boundary and infinite-wrap credit bitvector | $225 | https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/1
+- [bounty:IES-BoilerRoom/vllm-paged-kv-verifier] [$300] fix(kv_cache): Align prefix-cache copy-on-write watermark across TP=8 sha | $300 | https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2
+- [bounty:IES-BoilerRoom/vllm-paged-kv-verifier] ci/kv_cache: Fix KV frame chunk ceiling and reconcile multi-head block stride co | $75 | https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1
+- [bounty:relayhop/sn-monetization-runtime] [radar] SN open bounty 2026-11-23T00:12 | see issue | https://github.com/relayhop/sn-monetization-runtime/issues/1433
