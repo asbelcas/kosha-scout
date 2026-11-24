@@ -478,3 +478,47 @@
 - [bounty:IES-BoilerRoom/vllm-paged-kv-verifier] [$300] fix(kv_cache): Align prefix-cache copy-on-write watermark across TP=8 sha | $300 | https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2
 - [bounty:IES-BoilerRoom/vllm-paged-kv-verifier] ci/kv_cache: Fix KV frame chunk ceiling and reconcile multi-head block stride co | $75 | https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1
 - [bounty:relayhop/sn-monetization-runtime] [radar] SN open bounty 2026-11-23T00:12 | see issue | https://github.com/relayhop/sn-monetization-runtime/issues/1433
+
+## 2026-11-24
+
+### devpost — FETCH FAILED: HTTP Error 403: Forbidden
+### kaggle — SKIPPED (no creds; operator gate: add KAGGLE_USERNAME/KEY as repo secrets)
+### drivendata — 20 listed
+- [drivendata] The Geologic Enhanced Mapping System (GEMS) Prize Challenge | https://www.drivendata.org/competitions/306/competition-doe-gems/
+- [drivendata] What&#x27;s Up, Docs? Document Summarization with LLMs | https://www.drivendata.org/competitions/297/whats-up-docs/
+- [drivendata] Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines | https://www.drivendata.org/competitions/66/flu-shot-learning/
+- [drivendata] Conser-vision Practice Area: Image Classification | https://www.drivendata.org/competitions/87/competition-image-classification-wildlife-conservation/
+- [drivendata] Richter&#x27;s Predictor: Modeling Earthquake Damage | https://www.drivendata.org/competitions/57/nepal-earthquake/
+- [drivendata] DengAI: Predicting Disease Spread | https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/
+- [drivendata] Pump it Up: Data Mining the Water Table | https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
+- [drivendata] DaT Parkinson&#x27;s Challenge | https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/
+- [drivendata] Goodnight Moon, Hello Early Literacy Screening | https://www.drivendata.org/competitions/298/literacy-screening/
+- [drivendata] SNOMED CT Entity Linking Challenge | https://www.drivendata.org/competitions/258/competition-snomed-ct/
+- [drivendata] Kelp Wanted: Segmenting Kelp Forests | https://www.drivendata.org/competitions/255/kelp-forest-segmentation/
+- [drivendata] Pale Blue Dot: Visualization Challenge | https://www.drivendata.org/competitions/256/pale-blue-dot/
+- [drivendata] Unsupervised Wisdom: Explore Medical Narratives on Older Adult Falls | https://www.drivendata.org/competitions/217/cdc-fall-narratives/
+- [drivendata] Research Rovers: AI Research Assistants for NASA | https://www.drivendata.org/competitions/252/ai-research-assistants/
+- [drivendata] VisioMel Challenge: Predicting Melanoma Relapse | https://www.drivendata.org/competitions/148/visiomel-melanoma/
+- [drivendata] Tick Tick Bloom: Harmful Algal Bloom Detection Challenge | https://www.drivendata.org/competitions/143/tick-tick-bloom/
+- [drivendata] The BioMassters | https://www.drivendata.org/competitions/99/biomass-estimation/
+- [drivendata] Mars Spectrometry 2: Gas Chromatography | https://www.drivendata.org/competitions/97/nasa-mars-gcms/
+- [drivendata] Where&#x27;s Whale-do? | https://www.drivendata.org/competitions/96/beluga-whales/
+- [drivendata] Mars Spectrometry: Detect Evidence for Past Habitability | https://www.drivendata.org/competitions/93/nasa-mars-spectrometry/
+### zindi — 0 listed
+- none parsed
+### github-bounties — 15 open
+- [bounty:incidere/solana-agent-bounties] 🪙 [Bounty] [0.09 SOL Zero-Gas] Rust Non-Blocking Goodput Probe & Hysteresis Tier | see issue | https://github.com/incidere/solana-agent-bounties/issues/9
+- [bounty:incidere/solana-agent-bounties] 🪙 [Bounty] [0.09 SOL Zero-Gas] Multi-Channel 2D Kinematics & Burst-Rhythm Anomal | see issue | https://github.com/incidere/solana-agent-bounties/issues/8
+- [bounty:IES-BoilerRoom/zk-plonk-transcript-verifier] ($75) perf/fix: Align Fiat-Shamir challenge domain separator across multi-proof  | $75 | https://github.com/IES-BoilerRoom/zk-plonk-transcript-verifier/issues/2
+- [bounty:IES-BoilerRoom/zk-plonk-transcript-verifier] ci/plonk_kzg: Fix transcript chunk boundary check and grand-product coset shift  | $175 | https://github.com/IES-BoilerRoom/zk-plonk-transcript-verifier/issues/1
+- [bounty:IES-BoilerRoom/cpython-pep626-line-profiler] fix(dwarf_trace): Preserve exact column-offset delta invariants across exception | $250 | https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/2
+- [bounty:IES-BoilerRoom/cpython-pep626-line-profiler] fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction | $125 | https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/1
+- [bounty:incidere/solana-agent-bounties] 🪙 [Bounty] [0.12 SOL Zero-Gas] Offline Protocol Snapshot Derivative Stripper & I | see issue | https://github.com/incidere/solana-agent-bounties/issues/7
+- [bounty:incidere/solana-agent-bounties] 🪙 [Bounty] [0.10 SOL Zero-Gas] Grounded Passage Citation Verifier & Abstention D | see issue | https://github.com/incidere/solana-agent-bounties/issues/6
+- [bounty:incidere/vloop-free-openai-mcp] 🪙 [Bounty] [0.12 SOL Zero-Gas] Build a <=8KB Real-Time Solana SPL Mint Anomaly & | see issue | https://github.com/incidere/vloop-free-openai-mcp/issues/1
+- [bounty:incidere/solana-agent-bounties] 📋 [Free Agent Tool] Zero-Auth Plain-Text Shared Agent Wiki (/yard/w/<slug>) + Ke | see issue | https://github.com/incidere/solana-agent-bounties/issues/4
+- [bounty:incidere/solana-agent-bounties] 🪙 [Bounty] [0.08 SOL Zero-Gas] Fix Infinite Async Stream batchWithin(K, D) Timer | see issue | https://github.com/incidere/solana-agent-bounties/issues/3
+- [bounty:incidere/solana-agent-bounties] 🪙 [Bounty] [0.06 SOL Zero-Gas] Compact <=4KB Python Bytecode Stack VM with Fiber | see issue | https://github.com/incidere/solana-agent-bounties/issues/2
+- [bounty:incidere/solana-agent-bounties] 🪙 [Bounty] [0.12 SOL Zero-Gas] Build a <=8KB Real-Time Solana SPL Mint Anomaly & | see issue | https://github.com/incidere/solana-agent-bounties/issues/1
+- [bounty:alfrexo95/bounty-bot] 🪙 [Web3] Bounty (2): Research how other swap boxes handle l | see issue | https://github.com/alfrexo95/bounty-bot/issues/104
+- [bounty:alfrexo95/bounty-bot] 🪙 [Web3] [Bounty] Answer the 5 linked question(s) | see issue | https://github.com/alfrexo95/bounty-bot/issues/103
