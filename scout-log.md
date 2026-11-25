@@ -522,3 +522,47 @@
 - [bounty:incidere/solana-agent-bounties] 🪙 [Bounty] [0.12 SOL Zero-Gas] Build a <=8KB Real-Time Solana SPL Mint Anomaly & | see issue | https://github.com/incidere/solana-agent-bounties/issues/1
 - [bounty:alfrexo95/bounty-bot] 🪙 [Web3] Bounty (2): Research how other swap boxes handle l | see issue | https://github.com/alfrexo95/bounty-bot/issues/104
 - [bounty:alfrexo95/bounty-bot] 🪙 [Web3] [Bounty] Answer the 5 linked question(s) | see issue | https://github.com/alfrexo95/bounty-bot/issues/103
+
+## 2026-11-25
+
+### devpost — FETCH FAILED: HTTP Error 403: Forbidden
+### kaggle — SKIPPED (no creds; operator gate: add KAGGLE_USERNAME/KEY as repo secrets)
+### drivendata — 20 listed
+- [drivendata] The Geologic Enhanced Mapping System (GEMS) Prize Challenge | https://www.drivendata.org/competitions/306/competition-doe-gems/
+- [drivendata] What&#x27;s Up, Docs? Document Summarization with LLMs | https://www.drivendata.org/competitions/297/whats-up-docs/
+- [drivendata] Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines | https://www.drivendata.org/competitions/66/flu-shot-learning/
+- [drivendata] Conser-vision Practice Area: Image Classification | https://www.drivendata.org/competitions/87/competition-image-classification-wildlife-conservation/
+- [drivendata] Richter&#x27;s Predictor: Modeling Earthquake Damage | https://www.drivendata.org/competitions/57/nepal-earthquake/
+- [drivendata] DengAI: Predicting Disease Spread | https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/
+- [drivendata] Pump it Up: Data Mining the Water Table | https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
+- [drivendata] DaT Parkinson&#x27;s Challenge | https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/
+- [drivendata] Goodnight Moon, Hello Early Literacy Screening | https://www.drivendata.org/competitions/298/literacy-screening/
+- [drivendata] SNOMED CT Entity Linking Challenge | https://www.drivendata.org/competitions/258/competition-snomed-ct/
+- [drivendata] Kelp Wanted: Segmenting Kelp Forests | https://www.drivendata.org/competitions/255/kelp-forest-segmentation/
+- [drivendata] Pale Blue Dot: Visualization Challenge | https://www.drivendata.org/competitions/256/pale-blue-dot/
+- [drivendata] Unsupervised Wisdom: Explore Medical Narratives on Older Adult Falls | https://www.drivendata.org/competitions/217/cdc-fall-narratives/
+- [drivendata] Research Rovers: AI Research Assistants for NASA | https://www.drivendata.org/competitions/252/ai-research-assistants/
+- [drivendata] VisioMel Challenge: Predicting Melanoma Relapse | https://www.drivendata.org/competitions/148/visiomel-melanoma/
+- [drivendata] Tick Tick Bloom: Harmful Algal Bloom Detection Challenge | https://www.drivendata.org/competitions/143/tick-tick-bloom/
+- [drivendata] The BioMassters | https://www.drivendata.org/competitions/99/biomass-estimation/
+- [drivendata] Mars Spectrometry 2: Gas Chromatography | https://www.drivendata.org/competitions/97/nasa-mars-gcms/
+- [drivendata] Where&#x27;s Whale-do? | https://www.drivendata.org/competitions/96/beluga-whales/
+- [drivendata] Mars Spectrometry: Detect Evidence for Past Habitability | https://www.drivendata.org/competitions/93/nasa-mars-spectrometry/
+### zindi — 0 listed
+- none parsed
+### github-bounties — 15 open
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5813
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5812
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5811
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5810
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5809
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5808
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5807
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5806
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 3 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5805
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 4 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5804
+- [bounty:relayhop/sn-monetization-runtime] [radar] SN open bounty 2026-11-25T17:05 | see issue | https://github.com/relayhop/sn-monetization-runtime/issues/1444
+- [bounty:zhangjiayang6835-cyber/bounty-plaza] [Bounty] Bounty program: community detection/DLP rules with corpus fixtures | see issue | https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4400
+- [bounty:odiseo159-beep/mergit] Make the receipt say when a payment was credited, not paid | see issue | https://github.com/odiseo159-beep/mergit/issues/25
+- [bounty:incidere/solana-agent-bounties] 🎮 [Bounty + Game Arena] [0.10 SOL + 800 VLOOP] TMA-01: 9:16 One-Thumb Physics Ri | see issue | https://github.com/incidere/solana-agent-bounties/issues/13
+- [bounty:incidere/solana-agent-bounties] [Bounty + Arena] [0.08 SOL + 600 VLOOP] MCB-01: 4-Shot Anime Character Consisten | see issue | https://github.com/incidere/solana-agent-bounties/issues/12
