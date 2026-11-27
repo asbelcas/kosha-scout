@@ -610,3 +610,47 @@
 - [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5808
 - [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5807
 - [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5806
+
+## 2026-11-27
+
+### devpost — FETCH FAILED: HTTP Error 403: Forbidden
+### kaggle — SKIPPED (no creds; operator gate: add KAGGLE_USERNAME/KEY as repo secrets)
+### drivendata — 20 listed
+- [drivendata] The Geologic Enhanced Mapping System (GEMS) Prize Challenge | https://www.drivendata.org/competitions/306/competition-doe-gems/
+- [drivendata] What&#x27;s Up, Docs? Document Summarization with LLMs | https://www.drivendata.org/competitions/297/whats-up-docs/
+- [drivendata] Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines | https://www.drivendata.org/competitions/66/flu-shot-learning/
+- [drivendata] Conser-vision Practice Area: Image Classification | https://www.drivendata.org/competitions/87/competition-image-classification-wildlife-conservation/
+- [drivendata] Richter&#x27;s Predictor: Modeling Earthquake Damage | https://www.drivendata.org/competitions/57/nepal-earthquake/
+- [drivendata] DengAI: Predicting Disease Spread | https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/
+- [drivendata] Pump it Up: Data Mining the Water Table | https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
+- [drivendata] DaT Parkinson&#x27;s Challenge | https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/
+- [drivendata] Goodnight Moon, Hello Early Literacy Screening | https://www.drivendata.org/competitions/298/literacy-screening/
+- [drivendata] SNOMED CT Entity Linking Challenge | https://www.drivendata.org/competitions/258/competition-snomed-ct/
+- [drivendata] Kelp Wanted: Segmenting Kelp Forests | https://www.drivendata.org/competitions/255/kelp-forest-segmentation/
+- [drivendata] Pale Blue Dot: Visualization Challenge | https://www.drivendata.org/competitions/256/pale-blue-dot/
+- [drivendata] Unsupervised Wisdom: Explore Medical Narratives on Older Adult Falls | https://www.drivendata.org/competitions/217/cdc-fall-narratives/
+- [drivendata] Research Rovers: AI Research Assistants for NASA | https://www.drivendata.org/competitions/252/ai-research-assistants/
+- [drivendata] VisioMel Challenge: Predicting Melanoma Relapse | https://www.drivendata.org/competitions/148/visiomel-melanoma/
+- [drivendata] Tick Tick Bloom: Harmful Algal Bloom Detection Challenge | https://www.drivendata.org/competitions/143/tick-tick-bloom/
+- [drivendata] The BioMassters | https://www.drivendata.org/competitions/99/biomass-estimation/
+- [drivendata] Mars Spectrometry 2: Gas Chromatography | https://www.drivendata.org/competitions/97/nasa-mars-gcms/
+- [drivendata] Where&#x27;s Whale-do? | https://www.drivendata.org/competitions/96/beluga-whales/
+- [drivendata] Mars Spectrometry: Detect Evidence for Past Habitability | https://www.drivendata.org/competitions/93/nasa-mars-spectrometry/
+### zindi — 0 listed
+- none parsed
+### github-bounties — 15 open
+- [bounty:IES-BoilerRoom/wasm-component-canonical-abi] ci/canonical_abi: Verify zero-reallocation UTF-8 frame lifting under determinist | $225 | https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/2
+- [bounty:IES-BoilerRoom/wasm-component-canonical-abi] [$100] fix(canonical_abi): Fix canonical string frame ceiling and align determin | $100 | https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/1
+- [bounty:IES-BoilerRoom/wgsl-transcendental-math-core] fix(shader_math): Align WGSL constant-eval Horner polynomial rounding with runti | $200 | https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/2
+- [bounty:IES-BoilerRoom/wgsl-transcendental-math-core] ($150) perf/fix: Correct packet frame boundary clamp and 0.5-ULP FMA range-reduc | $150 | https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/1
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5905
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 2 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5904
+- [bounty:Ikalus1988/MisakaNet] [Bounty] Answer the 3 linked question(s) | see issue | https://github.com/Ikalus1988/MisakaNet/issues/5903
+- [bounty:tradermarketcap/tradermarketcap-open] Supply rule for Subsquid (SQD) | see issue | https://github.com/tradermarketcap/tradermarketcap-open/issues/138
+- [bounty:alfrexo95/bounty-bot] 🪙 [Web3] [Intern] Verify & modernize all multi-agent handof | see issue | https://github.com/alfrexo95/bounty-bot/issues/109
+- [bounty:alfrexo95/bounty-bot] 🪙 [Web3] [Intern] Quickstart, async streaming & MCP/IAM exa | see issue | https://github.com/alfrexo95/bounty-bot/issues/108
+- [bounty:hanzoai/browser] [Intern] Multi-agent Chrome extension build & local `hanzoai/engine` BYOK smoke  | see issue | https://github.com/hanzoai/browser/issues/1
+- [bounty:hanzoai/docs] [Intern] Copy-paste audit of Getting Started, Self-Hosting, Mobile, Desktop & OS | see issue | https://github.com/hanzoai/docs/issues/26
+- [bounty:hanzoai/python-sdk] [Intern] Quickstart, async streaming & MCP/IAM example verification on Python 3. | see issue | https://github.com/hanzoai/python-sdk/issues/55
+- [bounty:hanzoai/o11y] [Intern] OpenTelemetry OTLP trace/metric/log ingest smoke test from local `hanzo | see issue | https://github.com/hanzoai/o11y/issues/49
+- [bounty:hanzoai/post] [Intern] Social publishing scheduler timezone & media validation unit tests | see issue | https://github.com/hanzoai/post/issues/21
